@@ -38,6 +38,30 @@ int main(int argc, const char * argv[]) {
     auto f = 3.14;
     cout << f <<endl;
     
+    int var1;
+    char var2[10];
+    
+    cout << "var1's address: ";
+    cout << &var1 << endl;
+    
+    cout << "var2's address: ";
+    cout << &var2 << endl;
+    
+    int var = 20;
+    int *ip;
+    
+    ip = &var;
+    
+    cout << "value of var variable:";
+    cout << var << endl;
+    
+    cout << "Address storeed in ip var:";
+    cout << ip <<endl;
+    
+    
+    cout <<"Value of *ip variable:";
+    cout << *ip << endl;
+    
     
     
     return 0;
