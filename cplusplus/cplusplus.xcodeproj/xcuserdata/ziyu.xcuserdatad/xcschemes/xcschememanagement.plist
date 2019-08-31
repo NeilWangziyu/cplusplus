@@ -29,6 +29,11 @@
 			<key>orderHint</key>
 			<integer>14</integer>
 		</dict>
+		<key>climbStairs.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
 		<key>cplusplus.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -43,6 +48,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>7</integer>
+		</dict>
+		<key>firstBadVersion.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
 		</dict>
 		<key>generate.xcscheme_^#shared#^_</key>
 		<dict>
