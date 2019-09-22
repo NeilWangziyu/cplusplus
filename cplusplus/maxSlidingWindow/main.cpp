@@ -15,6 +15,7 @@ struct item{
 public:
     int index;
     int value;
+//    这个构造函数需要记住
     item(int i, int v): index(i), value(v){};
 };
 
