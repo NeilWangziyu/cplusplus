@@ -40,5 +40,13 @@ public:
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
+    
+    Solution s;
+    string input = "234";
+    vector<string> output = s.letterCombinations(input);
+    for (auto item:output) {
+        cout << item << endl;
+    }
+    
     return 0;
 }
